@@ -1,6 +1,9 @@
+
+<div align="center">
+
 ### Hi there 👋, Im Trippy!
 <p align="center">
-  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;Web+Developer;Open-Source+Enthusiast;Java+Developer;Spigot-API%20Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;Web+Developer;AntiCheat+Developer;Java+Developer;Spigot-API%20Developer;&center=true&width=500&height=50"></a>
 </p>
 
 <br>- 🔭 I’m currently working on Edge AntiCheat
@@ -26,3 +29,5 @@
 <br>> RageNetwork - A 1.8 KitPvP server. (Developer)
 <br>> Vexor - 1.8 MineHut server with loads of ideas mashed together! (Admin)
 <br>> TazPvP - A 1.19 RPG pvp server with some fun concepts mixed in like duels, koth, and mining (Moderator)
+ 
+  <\div>
