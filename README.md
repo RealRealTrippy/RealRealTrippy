@@ -1,10 +1,7 @@
-
+### Hi there 👋, Im Trippy!
 <p align="center">
   <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;Web+Developer;Open-Source+Enthusiast;Java+Developer;Spigot-API%20Developer;&center=true&width=500&height=50"></a>
 </p>
-
-
-### Hi there 👋, Im Trippy!
 
 <br>- 🔭 I’m currently working on Edge AntiCheat
 <br>- 🌱 I’m currently learning JS & CSS
