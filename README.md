@@ -25,3 +25,4 @@
 > OreoMC - A survival & vanilla Minecraft server. (Developer)
 > RageNetwork - A 1.8 KitPvP server. (Developer)
 > Vexor - 1.8 MineHut server with loads of ideas mashed together! (Admin)
+> TazPvP - A 1.19 RPG pvp server with some fun concepts mixed in like duels, koth, and mining (Moderator)
