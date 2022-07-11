@@ -29,5 +29,4 @@
 <br>> RageNetwork - A 1.8 KitPvP server. (Developer)
 <br>> Vexor - 1.8 MineHut server with loads of ideas mashed together! (Admin)
 <br>> TazPvP - A 1.19 RPG pvp server with some fun concepts mixed in like duels, koth, and mining (Moderator)
- 
-  <\div>
+
