@@ -23,6 +23,7 @@
 <br>> IceMC - A Minecraft network in beta: https://icemc.club/discord (Owner)
 <br>> SkadePvP - I was bored and wanted to make a MineHut server (Owner)
 <br>> Edge AntiCheat: https://edgeac.xyz (Founder / Developer)
+<br>> Rose Core: A multiversion server core. (Founder / Developer)
 
 ### I work for:
 <br>> OreoMC - A survival & vanilla Minecraft server. (Developer)
