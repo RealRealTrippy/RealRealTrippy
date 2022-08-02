@@ -21,11 +21,11 @@
 ### Projects I'm currently working on:
 <br>> CattoShield - Cheap & Adfordable DDoS Protection: https://cattoshield.com (Owner)
 <br>> IceMC - A Minecraft network in beta: https://icemc.club/discord (Owner)
-<br>> SkadePvP - I was bored and wanted to make a MineHut server (Owner)
+<br>> SkadePvP - best fully custom coded server (Owner)
 <br>> Edge AntiCheat: https://edgeac.xyz (Founder / Developer)
-<br>> Rose Core: A multiversion server core. (Founder / Developer)
 
 ### I work for:
+<br>> LeonePvP - KitPvP server. (Developer)
 <br>> OreoMC - A survival & vanilla Minecraft server. (Developer)
 <br>> RageNetwork - A 1.8 KitPvP server. (Sr Admin)
 <br>> Vexor - 1.8 MineHut server with loads of ideas mashed together! (Admin)
